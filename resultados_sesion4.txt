@@ -1,0 +1,4 @@
+--- Análisis de Secuencia ---
+Secuencia DNA Original: ATGGCCATTGTAATGGGCCGCTGAAAGGGTGCCCGATAG
+Proteína Traducida: MAIVMGR*KGAR*
+Índices del motivo 'ATG': [0, 12]

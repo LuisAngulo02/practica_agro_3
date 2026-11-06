@@ -1,0 +1,14 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Entorno de desarrollo (PyCharm / VSCode)
+.idea/
+.vscode/
+*.swp
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
